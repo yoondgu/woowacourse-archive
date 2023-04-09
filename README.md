@@ -11,12 +11,12 @@
 
 | 미션명 | 단계 | 기간 | 저장소 | 코드 리뷰 | 학습 기록 |  
 | - | - | - | - | - | - |
-| 자동차 경주 | 1단계 - 구현 | `2023.02.07` ~ `2023.02.09` | [click 🔗](https://github.com/yoondgu/java-racingcar/tree/step1) | [click 🔗](https://github.com/woowacourse/java-racingcar/pull/452) | - |
-| 자동차 경주 | 2단계 - 리팩터링 | `2023.02.09` ~ `2023.02.13` | [click 🔗](https://github.com/yoondgu/java-racingcar/tree/step2) | [click 🔗](https://github.com/woowacourse/java-racingcar/pull/568) | - |
-| 사다리 타기 | 1단계 - 사다리 생성 | `2023.02.14` ~ `2023.02.16` | [click 🔗](https://github.com/yoondgu/java-ladder/tree/step1) | [click 🔗](https://github.com/woowacourse/java-ladder/pull/76) | - |
-| 사다리 타기 | 2단계 - 사다리 게임 실행 | `2023.02.16` ~ `2023.02.27` | [click 🔗](https://github.com/yoondgu/java-ladder/tree/step2) | [click 🔗](https://github.com/woowacourse/java-ladder/pull/217) | - |
-| 블랙잭 | 1단계 - 블랙잭 게임 실행 | `2023.02.28` ~ `2023.03.03` | [click 🔗](https://github.com/yoondgu/java-blackjack/tree/step1) | [click 🔗](https://github.com/woowacourse/java-blackjack/pull/414) | - |
-| 블랙잭 | 2단계 - 베팅 | `2023.03.04` ~ `2023.03.13` | [click 🔗](https://github.com/yoondgu/java-blackjack/tree/step2) | [click 🔗](https://github.com/woowacourse/java-blackjack/pull/525) | - |
+| 자동차 경주 | 1단계 - 구현 | `2023.02.07` ~ `2023.02.09` | [click 🔗](https://github.com/yoondgu/java-racingcar/tree/step1) | [click 🔗](https://github.com/woowacourse/java-racingcar/pull/452) | [click 🖋](https://yoondgu.tistory.com/6) |
+| 자동차 경주 | 2단계 - 리팩터링 | `2023.02.09` ~ `2023.02.13` | [click 🔗](https://github.com/yoondgu/java-racingcar/tree/step2) | [click 🔗](https://github.com/woowacourse/java-racingcar/pull/568) | [click 🖋](https://yoondgu.tistory.com/7) |
+| 사다리 타기 | 1단계 - 사다리 생성 | `2023.02.14` ~ `2023.02.16` | [click 🔗](https://github.com/yoondgu/java-ladder/tree/step1) | [click 🔗](https://github.com/woowacourse/java-ladder/pull/76) | [click 🖋](https://yoondgu.tistory.com/8) |
+| 사다리 타기 | 2단계 - 사다리 게임 실행 | `2023.02.16` ~ `2023.02.27` | [click 🔗](https://github.com/yoondgu/java-ladder/tree/step2) | [click 🔗](https://github.com/woowacourse/java-ladder/pull/217) | [click 🖋](https://yoondgu.tistory.com/9) |
+| 블랙잭 | 1단계 - 블랙잭 게임 실행 | `2023.02.28` ~ `2023.03.03` | [click 🔗](https://github.com/yoondgu/java-blackjack/tree/step1) | [click 🔗](https://github.com/woowacourse/java-blackjack/pull/414) | [click 🖋](https://yoondgu.tistory.com/10) |
+| 블랙잭 | 2단계 - 베팅 | `2023.03.04` ~ `2023.03.13` | [click 🔗](https://github.com/yoondgu/java-blackjack/tree/step2) | [click 🔗](https://github.com/woowacourse/java-blackjack/pull/525) | [click 🖋](https://yoondgu.tistory.com/11) |
 | 체스 | 1, 2단계 - 체스판 초기화, 말 이동 | `2023.03.14` ~ `2023.03.16` | [click 🔗](https://github.com/yoondgu/java-chess/tree/step1) | [click 🔗](https://github.com/woowacourse/java-chess/pull/454) | - |
 | 체스 | 3, 4단계 - 승패 및 점수, DB 적용 | `2023.03.17` ~ `2023.03.31` | [click 🔗](https://github.com/yoondgu/java-chess/tree/step2) | [click 🔗](https://github.com/woowacourse/java-chess/pull/566) | - |
 
