@@ -17,8 +17,8 @@
 | 🪜 ❓ 🚩 | 2단계 - 사다리 게임 실행 | `2023.02.16` ~ `2023.02.27` | [click 🔗](https://github.com/yoondgu/java-ladder/tree/step2) | [click 🔗](https://github.com/woowacourse/java-ladder/pull/217) | [click 🖋](https://yoondgu.tistory.com/9) |
 | 블랙잭 | 1단계 - 블랙잭 게임 실행 | `2023.02.28` ~ `2023.03.03` | [click 🔗](https://github.com/yoondgu/java-blackjack/tree/step1) | [click 🔗](https://github.com/woowacourse/java-blackjack/pull/414) | [click 🖋](https://yoondgu.tistory.com/10) |
 | ♣️ ♠️ 💰 | 2단계 - 베팅 | `2023.03.04` ~ `2023.03.13` | [click 🔗](https://github.com/yoondgu/java-blackjack/tree/step2) | [click 🔗](https://github.com/woowacourse/java-blackjack/pull/525) | [click 🖋](https://yoondgu.tistory.com/11) |
-| 체스 | 1, 2단계 - 체스판 초기화, 말 이동 | `2023.03.14` ~ `2023.03.16` | [click 🔗](https://github.com/yoondgu/java-chess/tree/step1) | [click 🔗](https://github.com/woowacourse/java-chess/pull/454) | - |
-| ♟ ♟ ♟ | 3, 4단계 - 승패 및 점수, DB 적용 | `2023.03.17` ~ `2023.03.31` | [click 🔗](https://github.com/yoondgu/java-chess/tree/step2) | [click 🔗](https://github.com/woowacourse/java-chess/pull/566) | - |
+| 체스 | 1, 2단계 - 체스판 초기화, 말 이동 | `2023.03.14` ~ `2023.03.16` | [click 🔗](https://github.com/yoondgu/java-chess/tree/step1) | [click 🔗](https://github.com/woowacourse/java-chess/pull/454) | [click 🖋](https://yoondgu.tistory.com/13) |
+| ♟ ♟ ♟ | 3, 4단계 - 승패 및 점수, DB 적용 | `2023.03.17` ~ `2023.03.31` | [click 🔗](https://github.com/yoondgu/java-chess/tree/step2) | [click 🔗](https://github.com/woowacourse/java-chess/pull/566) | [click 🖋](https://yoondgu.tistory.com/14) |
 
 ### 관련 포스팅
 - [equals 와 hashCode 를 함께 정의해야 하는 이유](https://velog.io/@yoondgu/equals-%EC%99%80-hashcode-%EB%A5%BC-%ED%95%A8%EA%BB%98-%EC%A0%95%EC%9D%98%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
