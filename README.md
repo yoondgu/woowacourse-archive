@@ -29,9 +29,42 @@
 - [레벨1 레벨 인터뷰 회고](https://velog.io/@yoondgu/%EB%A0%88%EB%B2%A81-%EB%A0%88%EB%B2%A8-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9A%8C%EA%B3%A0)
 
 
+## 2️⃣ 레벨2
+### 학습 목표
+- 스프링 프레임워크를 이용해 웹 애플리케이션을 개발
+- 학습 테스트를 통해 새로운 기술을 익히고 미션에 적용
+- 클라우드 환경에 애플리케이션을 배포하고 운영
+- 새로운 기술을 익히는 본인만의 효과적인 학습 방법 찾기
+
+| 미션명 | 단계 | 기간 | 저장소 | 코드 리뷰 | 학습 기록 |  
+| - | - | - | - | - | - |
+| 웹 자동차 경주 | 1단계 - 스프링 프레임워크 적용 | `2023.04.11` ~ `2023.04.13` | [click 🔗](https://github.com/yoondgu/jwp-racingcar/tree/step1) | [click 🔗](https://github.com/woowacourse/jwp-racingcar/pull/82) | [click 🖋](https://yoondgu.tistory.com/17) |
+| 🚙 🚗 🖥 | 2단계 - 추가 기능 및 리팩터링 | `2023.04.14` ~ `2023.04.24` | [click 🔗](https://github.com/yoondgu/jwp-racingcar/tree/step2) | [click 🔗](https://github.com/woowacourse/jwp-racingcar/pull/105) | [click 🖋](https://yoondgu.tistory.com/17) |
+| 쇼핑 장바구니 | 1단계 - 상품 관리 기능 | `2023.04.25` ~ `2023.04.27` | [click 🔗](https://github.com/yoondgu/jwp-shopping-cart/tree/step1) | [click 🔗](https://github.com/woowacourse/jwp-racingcar/pull/175) | [click 🖋](https://yoondgu.tistory.com/22) |
+| 🛍 📦 🛒 | 2단계 - 장바구니 기능 | `2023.04.28` ~ `2023.05.08` | [click 🔗](https://github.com/yoondgu/jwp-shopping-cart/tree/step2) | [click 🔗](https://github.com/woowacourse/jwp-racingcar/pull/337) | [click 🖋](https://yoondgu.tistory.com/22) |
+| 지하철 | 1단계 - 지하철 정보 관리 기능 | `2023.05.09` ~ `2023.05.11` | [click 🔗](https://github.com/yoondgu/jwp-subway-path/tree/step1) | [click 🔗](https://github.com/woowacourse/jwp-subway-path/pull/78) | [click 🖋](https://yoondgu.tistory.com/31) |
+| 🚈 🛣 🚏 | 2단계 - 경로 조회 기능 | `2023.05.12` ~ `2023.05.22` | [click 🔗](https://github.com/yoondgu/jwp-subway-path/tree/step2) | [click 🔗](https://github.com/woowacourse/jwp-subway-path/pull/138) | [click 🖋](https://yoondgu.tistory.com/31) |
+| 🚈 📍 🎫 | 3단계 - 요금 정책 추가 | `2023.06.16` ~ `2023.06.17` | [click 🔗](https://github.com/yoondgu/jwp-subway-path/tree/step3) | - | [click 🖋](https://yoondgu.tistory.com/31) |
+| 쇼핑 주문 (협업) | 1단계 - 클라이언트-서버 연동 | `2023.05.23` ~ `2023.05.25` | [click 🔗](https://github.com/yoondgu/jwp-shopping-order/tree/step1) | - | [click 🖋](https://yoondgu.tistory.com/32) |
+| 🛍 📦 💵 | 2단계 - 주문 기능 구현 | `2023.05.26` ~ `2023.06.05` | [click 🔗](https://github.com/yoondgu/jwp-shopping-order/tree/step2) | [click 🔗](https://github.com/woowacourse/jwp-shopping-order/pull/47) | [click 🖋](https://yoondgu.tistory.com/32) |
+
+
+### 관련 포스팅
+- [@Service, @Repository 사용 이유에 대한 고찰 + PSA](https://yoondgu.tistory.com/15)
+- [@RequestBody 사용을 위한 DTO의 조건을 정리해보자](https://yoondgu.tistory.com/16)
+- [[문제 해결] @AutoConfigureTestDatabase 설정으로 @JdbcTest에서 원하는 DB 사용하기](https://yoondgu.tistory.com/18)
+- [Spring Boot의 로깅, 로깅을 왜 할까?](https://yoondgu.tistory.com/23)
+- [[웹] SOP, CORS 정의와 대응 방법](https://yoondgu.tistory.com/24)
+- [[네트워크] 서브네팅 이해하기 (1) IPv4와 클래스, 주소의 고갈](https://yoondgu.tistory.com/25)
+- [[네트워크] 서브네팅 이해하기 (2) 서브넷, 서브네팅, CIDR](https://yoondgu.tistory.com/26)
+- [[문제 해결] JDBC ResultSet이 null을 0으로 읽는다?](https://yoondgu.tistory.com/27)
+- [[레벨2] 레벨 인터뷰 회고](https://yoondgu.tistory.com/28)
+- [JDBC vs SQL mapper vs ORM 테코톡 회고](https://yoondgu.tistory.com/29)
+
 ## 🤓 스터디
 | 스터디명 | 내용 | 기간 | 저장소 |  
 | - | - | - | - |
 | 꾸글쓰(채널 참여) | 꾸준히 글 쓰는 크루들 모임(매주 글 하나 업로드)  | `2023.02.20` ~ | [click 🔗](https://github.com/woowacourse-study/Gugles) |
-| be전공자 - 네트워크 기초 | CS 학습 - 네트워크 기초 강의 수강 후 퀴즈 및 토론 | `2023.02.26` ~ | - |
+| be전공자 - 네트워크 기초 | CS 학습 - 네트워크 기초 강의 수강 후 퀴즈 및 토론 | `2023.02.26` `2023.03.26` | - |
 | 조코나코 | <좋은 코드, 나쁜 코드> 요약 및 토론 | `2023.03.02` ~ `2023.03.26` | [click 🔗](https://github.com/woowacourse-study/2023-read-joconaco) |
+| tal-study (가늘고 길게 가는 네트워크 스터디) | 네트워크 각자 학습 후 공유 및 토론 | `2023.04.24` ~ | [click 🔗](https://github.com/woowacourse-study/tal-study) |
