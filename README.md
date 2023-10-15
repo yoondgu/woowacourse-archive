@@ -61,6 +61,46 @@
 - [[레벨2] 레벨 인터뷰 회고](https://yoondgu.tistory.com/28)
 - [JDBC vs SQL mapper vs ORM 테코톡 회고](https://yoondgu.tistory.com/29)
 
+## 3️⃣ 레벨3
+### 학습 목표
+- 프로젝트 기획, 개발 및 런칭
+- 우아한테크코스에서 배운 기술을 적용하는 기간
+- 협업을 통해 사용자에게 가치 있는 제품을 만들고, 만드는 과정에서 기술을 학습
+- [팀 프로젝트 저장소](https://github.com/woowacourse-teams/2023-map-befine)
+
+### 관련 포스팅
+- [팀 기술 블로그 운영](https://map-befine-official.github.io/)
+- [JPA 기본키 생성 전략과 선택 기준](https://yoondgu.tistory.com/34)
+- [연관 관계 편의 메서드는 써야겠고, setter는 쓰기 싫어요](https://yoondgu.tistory.com/35)
+
+
+## 4️⃣ 레벨4
+### 학습 목표
+- 레벨4에서 런칭한 프로젝트를 실제 사용 가능하게 운영하며, 유지보수 및 기능 개발을 함께 하는 경험
+- 이미 발명된 바퀴를 직접 만들어 보며 기술에 대한 이해도 향상
+- 레거시 프로젝트를 리팩터링하는 경험을 통해 서비스를 안정적으로 운영하면서 레거시 코드를 리팩터링할 수 있는 역량 향상
+
+| 미션명 | 단계 | 기간 | 저장소 | 코드 리뷰 | 학습 기록 |  
+| - | - | - | - | - | - |
+| Tomcat 구현하기 | 1, 2단계 | `2023.08.31` ~ `2023.09.04` | [step1,2 🔗](https://github.com/yoondgu/jwp-dashboard-http/tree/step1%2C2) | [click 🔗](https://github.com/woowacourse/jwp-dashboard-http/pull/328) |  |
+|  | 3,4단계 | `2023.09.04` ~ `2023.09.11` | [step3,4 🔗](https://github.com/yoondgu/jwp-dashboard-http/tree/step3%4C2) | [click 🔗](https://github.com/woowacourse/jwp-dashboard-http/pull/453) |  |
+| `@MVC` 구현하기 | 1단계 | `2023.09.12` ~ `2023.09.14` | [step1 🔗](https://github.com/yoondgu/jwp-dashboard-mvc/tree/step1) | [click 🔗](https://github.com/woowacourse/jwp-dashboard-mvc/pull/374) |  |
+|   | 2,3단계 | `2023.09.15` ~ `2023.09.25` | [step2 🔗](https://github.com/yoondgu/jwp-dashboard-mvc/tree/step2)<br>[step3 🔗](https://github.com/yoondgu/jwp-dashboard-mvc/tree/step3) | [step2 🔗](https://github.com/woowacourse/jwp-dashboard-mvc/pull/507)<br>[step3 🔗](https://github.com/woowacourse/jwp-dashboard-mvc/pull/576) |  |
+| Jdbc 라이브러리 구현하기 | 1단계 | `2023.09.26` ~ `2023.10.02` | [click 🔗](https://github.com/yoondgu/jwp-dashboard-jdbc/tree/step1) | [click 🔗](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/316) |  |
+|  | 2,3,4단계 | `2023.10.03` ~ `2023.10.09` | [step2 🔗](https://github.com/yoondgu/jwp-dashboard-jdbc/tree/step2)<br>[step3 🔗](https://github.com/yoondgu/jwp-dashboard-jdbc/tree/step3)<br>[step4 🔗](https://github.com/yoondgu/jwp-dashboard-jdbc/tree/step4) | [step2 🔗](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/421)<br>[step3 🔗](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/463)<br>[step4 🔗](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/470) |  |
+
+### 관련 포스팅
+- [팀 프로젝트 Logback 로깅 환경 개선기](https://yoondgu.tistory.com/45)
+- [Jpa 이벤트를 사용해 일관성 있는 시간 정보 관리하기](https://yoondgu.tistory.com/46)
+- [800건의 장소 데이터를 우리 서비스에 클릭 한 번으로 저장하기](https://yoondgu.tistory.com/47)
+- [Java Reflection API의 헷갈리는 get 메서드 비교하기](https://yoondgu.tistory.com/39)
+- [성능 향상을 위한 Hikari Connection Pool 설정 for MySQL](https://yoondgu.tistory.com/42)
+- [[Real MySQL 8.0] 05. 트랜잭션과 잠금 (1) 트랜잭션, MySQL의 잠금](https://yoondgu.tistory.com/37)
+- [[Real MySQL 8.0] 05. 트랜잭션과 잠금 (2) MySQL의 격리 수준](https://yoondgu.tistory.com/38)
+- [Transaction 격리가 되지 않을 때 발생할 수 있는 현상들
+](https://yoondgu.tistory.com/43)
+
+
 ## 🤓 스터디
 | 스터디명 | 내용 | 기간 | 저장소 |  
 | - | - | - | - |
@@ -68,3 +108,4 @@
 | be전공자 - 네트워크 기초 | CS 학습 - 네트워크 기초 강의 수강 후 퀴즈 및 토론 | `2023.02.26` `2023.03.26` | - |
 | 조코나코 | <좋은 코드, 나쁜 코드> 요약 및 토론 | `2023.03.02` ~ `2023.03.26` | [click 🔗](https://github.com/woowacourse-study/2023-read-joconaco) |
 | tal-study (가늘고 길게 가는 네트워크 스터디) | 네트워크 각자 학습 후 공유 및 토론 | `2023.04.24` ~ | [click 🔗](https://github.com/woowacourse-study/tal-study) |
+| 디비디비딥 | 데이터베이스 관련 강의를 듣고 공부한 것을 공유 및 토론 | `2023.04.24` ~ | [click 🔗](https://github.com/woowacourse-study/2023-db-db-deep/discussions) |
